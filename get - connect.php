@@ -1,6 +1,6 @@
 <?php
 
-$veritabani = pg_connect("host=localhost port=5432 dbname=bilgiler user=postgres password='06370637'");
+$veritabani = pg_connect("host=localhost port=5432 dbname=bilgiler user=postgres password='PASSWORD'");
 
 
 
